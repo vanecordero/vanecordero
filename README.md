@@ -5,8 +5,11 @@ Programmer in process...
 <h3>🔭 I’m currently working on: </h3>
     - Web developer: Angular Frontend
 
-<h3>🌱 I’m currently learning </h3>
+<h3>🌱 I’m currently learning: </h3>
     - React
+    
+<h3>💻 I’m looking to: </h3>
+    Collaborate on any project that will help me to gain knowledge and experience.
     
 <h3>📫 How to reach me: </h3>
     - <a href="https://www.linkedin.com/in/rvco/" target="_blank">LinkedIn</a>
@@ -19,7 +22,6 @@ Programmer in process...
 Here are some ideas to get you started:
 
 
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
