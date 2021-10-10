@@ -2,14 +2,15 @@
 
 Programmer in process...
 -
-🔭 <h3>I’m currently working on: </h3>
+<h3>🔭 I’m currently working on: </h3>
     - Web developer: Angular Frontend
 
-🌱 <h3>I’m currently learning </h3>
+<h3>🌱 I’m currently learning </h3>
     - React
     
-📫 <h3>How to reach me: </h3>
+<h3>📫 How to reach me: </h3>
     - <a href="https://www.linkedin.com/in/rvco/" target="_blank">LinkedIn</a>
+    </br>
     - <a  href="http://www.rvcordero.com/" target="_blank">Portfolio</a>
 
 <!--
