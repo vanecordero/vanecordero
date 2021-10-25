@@ -17,7 +17,7 @@ Programmer in process...
     - <a  href="http://www.rvcordero.com/" target="_blank">Portfolio</a>
 
 <h3>🚧 Repositories</h3>
-Good news, I have been organizing my repositories by mentors, so you can access these files, see a link and small description of each one.
+<p>Good news, I have been organizing my repositories by mentors, so you can access these files, see a link and small description of each one.</p>
 - <a href="https://github.com/vanecordero/DevProjects-by-codementor" target="_blank">DevProjects by Codementor Solutions</a>
     </br>
 - <a  href="https://github.com/vanecordero/Frontend-Mentor" target="_blank">Frontend Mentor Solutions</a>
