@@ -18,8 +18,8 @@ Programmer in process...
 
 <h3>🚧 Repositories</h3>
 Good news, I have been organizing my repositories by mentors, so you can access these files, see a link and small description of each one.
--[DevProjects by Codementor](https://github.com/vanecordero/DevProjects-by-codementor)
--[Frontend Mentor Solutions](https://github.com/vanecordero/Frontend-Mentor)
+- [DevProjects by Codementor](https://github.com/vanecordero/DevProjects-by-codementor)
+- [Frontend Mentor Solutions](https://github.com/vanecordero/Frontend-Mentor)
 
 <!--
 **vanecordero/vanecordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
