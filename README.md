@@ -10,11 +10,6 @@ Programmer in process...
     
 <h3>💻 I’m looking to: </h3>
     Collaborate on any project that will help me to gain knowledge and experience.
-    
-<h3>📫 How to reach me: </h3>
-    - <a href="https://www.linkedin.com/in/rvco/" target="_blank">LinkedIn</a>
-    </br>
-    - <a  href="http://www.rvcordero.com/" target="_blank">Portfolio</a>
 
 <h3>🚧 Repositories</h3>
 <p>Good news, I have been organizing my repositories by mentors, so you can access these files, see a link and small description of each one.</p>
@@ -22,7 +17,11 @@ Programmer in process...
     </br>
 - <a  href="https://github.com/vanecordero/Frontend-Mentor" target="_blank">Frontend Mentor Solutions</a>
 
-
+    
+<h3>📫 How to reach me: </h3>
+    - <a href="https://www.linkedin.com/in/rvco/" target="_blank">LinkedIn</a>
+    </br>
+    - <a  href="http://www.rvcordero.com/" target="_blank">Portfolio</a>
 <!--
 **vanecordero/vanecordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
