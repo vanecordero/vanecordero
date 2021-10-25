@@ -1,27 +1,30 @@
 ![github banner](https://user-images.githubusercontent.com/47092867/136709049-503e9238-0477-4371-b352-e7e10d9d071e.png)
 
-Programmer in process...
--
-<h3>🔭 I’m currently working on: </h3>
-    - Web developer: Angular Frontend
+Programmer in process... -
 
-<h3>🌱 I’m currently learning: </h3>
-    - React
-    
-<h3>💻 I’m looking to: </h3>
-    Collaborate on any project that will help me to gain knowledge and experience.
+### 🔭 I’m currently working on:
 
-<h3>🚧 Repositories</h3>
-<p>Good news, I have been organizing my repositories by mentors, so you can access these files, see a link and small description of each one.</p>
-- <a href="https://github.com/vanecordero/DevProjects-by-codementor" target="_blank">DevProjects by Codementor Solutions</a>
-    </br>
-- <a  href="https://github.com/vanecordero/Frontend-Mentor" target="_blank">Frontend Mentor Solutions</a>
+- Web developer: Angular Frontend
 
-    
-<h3>📫 How to reach me: </h3>
-    - <a href="https://www.linkedin.com/in/rvco/" target="_blank">LinkedIn</a>
-    </br>
-    - <a  href="http://www.rvcordero.com/" target="_blank">Portfolio</a>
+### 🌱 I’m currently learning:
+
+- React
+
+### 💻 I’m looking to:
+
+Collaborate on any project that will help me to gain knowledge and experience.
+
+### 🚧 Repositories
+
+Good news, I have been organizing my repositories by mentors, so you can access these files, see a link and small description of each one.
+
+- [DevProjects by Codementor Solutions](https://github.com/vanecordero/DevProjects-by-codementor)  
+- [Frontend Mentor Solutions](https://github.com/vanecordero/Frontend-Mentor)
+
+### 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/rvco/)  
+- [Portfolio](http://www.rvcordero.com/)
 <!--
 **vanecordero/vanecordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
