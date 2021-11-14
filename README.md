@@ -9,6 +9,7 @@ Programmer in process... -
 ### 🌱 I’m currently learning:
 
 - React
+- [GitBook - My learning as a React dummy](https://r-vanessa.gitbook.io/estudios-react/)
 
 ### 💻 I’m looking to:
 
