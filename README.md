@@ -1,7 +1,7 @@
 ![github banner](https://user-images.githubusercontent.com/47092867/142865658-b1546439-4221-4e0d-b03b-5e179c381684.png)
 
 <img align='right' src="https://user-images.githubusercontent.com/47092867/142872496-4719e8fd-0c9d-4793-8a63-f2e9fcbefda1.png"  width="150">
-<em>Software Enginner Student at <a href="https://unapec.edu.do">UNAPEC</a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></br></br></br>Frontend Developer at <a href="#">Insurance Company</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
+<em>Software Enginner Student at <a href="https://unapec.edu.do">UNAPEC</a><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></br>Frontend Developer at <a href="#">Insurance Company</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 </em>
 
 
