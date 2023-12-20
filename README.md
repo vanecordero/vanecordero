@@ -11,8 +11,8 @@
 ```javascript
 const VANE = {
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node, Storybook, Styled-Components],
-  challenges:  "I am doing the DevProjects and FrontendMentor challenges focused on react"
+  tools: [VUE, React, Angular, Node, Storybook, Styled-Components],
+  challenges:  "Always learning"
 }
 ```
 
